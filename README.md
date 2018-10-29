@@ -1,8 +1,8 @@
 <h1 align="center">
-  React coming soon template
+  Project Title
 </h1>
 
-Kick off your new website with coming soon kick starter template.
+<p>React Template</p>
 
 
 ## 🚀 Quick start
